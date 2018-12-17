@@ -1,0 +1,38 @@
+body {background-color: #a2b9bc;}
+		.pirma {
+			color:black;
+			font-family: "Verdana" ;
+			text-align: center;
+		background-color: #DC143C }
+	table, td {
+			border: none;
+			border-collapse: collapse
+		}
+		table{
+			margin: auto;
+			width: 85%;
+			text-align: center;
+			vertical-align: middle;
+		}
+		.antra {
+			
+			font-family: "Verdana";
+text-align: center;			
+		}
+		.trecia {
+			text-align: center;
+			font-family: "Verdana" ;
+			background-color: #FFF8DC 
+		}
+		.ketvirta {
+			background-color: 	#DC143C ;
+			color: white ;
+			text-align: left;
+			text-decoration: none
+		}
+		
+		
+#autorius {
+	color: green;
+	font-family: "Verdana"
+}
