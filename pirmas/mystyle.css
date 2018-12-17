@@ -1,33 +1,11 @@
-body {background-color: #a2b9bc;}
-		.pirmoji {color: white; background-color: purple}
-		.antroji {font-family: "Arial";
-		font-size: 60pt;
-		background-color: orange;
-		color: white;}
-		#autorius {color: green;}
-		a:hover {
-			font-size: 120%;
-			color: red;
-			img{ height: 900%;}
-		}
-		a:link{
-			text-decoration: none ;
-		}
-		table, td {
-			border: 1px solid black;
-		}
-		table{
-			margin: auto;
-			width: 70%;
-			text-align: center;
-			vertical-align: middle;
-		}
-		.pirma {
-		font-size: 80px;
-		background-color:#a2b9bc; ;
-		height:200px; }
-		.antra {
-			height: 100px;
-			vertical-align: text-top;
-		}
-	
+
+	body {background-color: #fefbd8;}
+	.antras {font-weight: bold;
+	font-family: "Arial"
+	}
+	.pirmas {font-family: Lucida Console;
+	color: white;
+	background-color: green;}
+	#autorius {font-family: Verdana;
+	color: gray;
+	font-style: italic;}
