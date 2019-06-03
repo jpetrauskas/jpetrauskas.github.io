@@ -1,0 +1,50 @@
+body {background-color: #ebebe0;}
+.antraste 
+{
+	color:black;
+			font-family: "Verdana" ;
+			text-align: center;
+	
+}
+.pirma {
+			text-align: center;
+			font-family: "Verdana" ;
+			background-color: white;
+			width: 60%;
+			height: 20%;
+
+  border: 15px solid black ;
+  padding: 50px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:20px;
+  
+  
+		}
+.pavadinimas {
+	text-align: left;
+	font-family: "Verdana";
+	
+}
+.uzduotis{
+	text-align: center;
+	font-family: "Verdana";
+	width: 50%;
+	padding: 10px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	background-color: white;
+	float: left;
+	border: 5px dotted black;
+}
+.mygtukas{
+color: red;
+float: right;
+font-family: "Verdana";
+font-size: medium;
+margin-top: 40px;
+	margin-bottom: 30px;
+
+  
+ 
+}
